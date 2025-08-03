@@ -10,7 +10,6 @@
 #include <dt-bindings/zmk/pointing.h>
    
 / {
-
  behaviors {
     ht: hold_tap {
         label = "hold_tap";
