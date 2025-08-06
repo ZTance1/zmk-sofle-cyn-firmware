@@ -22,7 +22,7 @@
             bindings = <&kp>, <&kp>;
         };
 
-        htmo: hold_tap_momentary {
+        htmo: ht_momentary {
             label = "hold_tap_momentary";
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
