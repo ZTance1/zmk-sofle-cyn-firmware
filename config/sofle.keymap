@@ -22,7 +22,7 @@
             bindings = <&kp>, <&kp>;
         };
 
-        htst: hold_tap_small_time{
+        htst: htst_small_time{
             label = "hold_tap";
             compatible = "zmk,behavior-hold-tap";
             #binding-cells = <2>;
